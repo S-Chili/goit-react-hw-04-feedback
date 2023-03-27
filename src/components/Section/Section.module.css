@@ -1,0 +1,6 @@
+.SecTitle {
+  background: linear-gradient(45deg, #c4a951 33%, #e8b62d 66%, #725609);
+  -webkit-text-fill-color: transparent;
+  color: #725609;
+  background-clip: text;
+}

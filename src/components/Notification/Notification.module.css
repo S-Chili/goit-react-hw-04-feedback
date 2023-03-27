@@ -1,0 +1,8 @@
+.info {
+  font-size: 20px;
+  font-weight: 500;
+  background: linear-gradient(45deg, #665211 33%, #daa81e 66%, #ecf407);
+  -webkit-text-fill-color: transparent;
+  color: #725609;
+  background-clip: text;
+}
